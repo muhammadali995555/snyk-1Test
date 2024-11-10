@@ -31,7 +31,7 @@
     "@babel/core": "^7.7.0",
     "@theforeman/builder": "^8.7.0",
     "@theforeman/eslint-plugin-foreman": "^8.7.0",
-    "@theforeman/stories": "^8.7.0",
+    "@theforeman/stories": "^11.0.0",
     "@theforeman/test": "^8.7.0",
     "@theforeman/vendor-dev": "^8.7.0",
     "argv-parse": "^1.0.1",
@@ -62,7 +62,7 @@
     "stylelint-config-standard": "^18.0.0",
     "uglifyjs-webpack-plugin": "^1.2.2",
     "url-loader": "^1.0.1",
-    "webpack": "^3.4.1",
+    "webpack": "^4.0.0",
     "webpack-bundle-analyzer": ">=3.3.2",
     "webpack-dev-server-without-h2": "^2.11.8",
     "webpack-stats-plugin": "^0.1.5"
